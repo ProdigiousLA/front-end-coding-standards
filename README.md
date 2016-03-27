@@ -1,5 +1,9 @@
 #Prodigious Front End coding standards
 
+<p align="center">
+    <img height="271" width="405" src="https://raw.githubusercontent.com/ProdigiousLA/front-end-coding-standards/master/intro.jpg">
+</p>
+
 > Having good front end standards is important. That's why we have defined these list of rules to keep in mind while we are coding.
 
 
