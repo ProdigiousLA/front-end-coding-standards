@@ -9,9 +9,10 @@
 
 ## Table of Contents
 
-  1. [Javascript](javascript/)
-  1. [CSS & Sass](css/)
   1. [Html](html/)
+  1. [CSS & Sass](css/)
+  1. [Javascript](javascript/)
+  
  
 ## Contributors
 
@@ -21,7 +22,7 @@
 
 (The MIT License)
 
-Copyright (c) 2014-2016 Airbnb
+Copyright (c) 2016 Prodigious
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -46,3 +47,12 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ## Amendments
 
 We encourage you to fork this guide and change the rules to fit your team's style guide. Below, you may list some amendments to the style guide. This allows you to periodically update your style guide without having to deal with merge conflicts.
+
+## Thanks
+
+Our coding standards are based in best practices learn by our developers and the standards shared by the community through the years. Special thanks to:
+
+  - [https://github.com/styleguide](https://github.com/styleguide)
+  - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
+  - [https://google.github.io/styleguide/htmlcssguide.xml](https://google.github.io/styleguide/htmlcssguide.xml)
+  - [https://github.com/necolas/idiomatic-css](https://github.com/necolas/idiomatic-css) 
