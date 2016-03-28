@@ -50,7 +50,7 @@ We encourage you to fork this guide and change the rules to fit your team's styl
 
 ## Thanks
 
-Our coding standards are based in best practices learn by our developers and the standards shared by the community through the years. Special thanks to:
+Our coding standards are based in best practices learned by our developers and the standards shared by the community through the years. Special thanks to:
 
   - [https://github.com/styleguide](https://github.com/styleguide)
   - [https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
